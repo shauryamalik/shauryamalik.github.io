@@ -20,7 +20,7 @@ description: Personal Webpage #A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: #"aboutme"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -71,9 +71,9 @@ social-network-links:
   email: "shauryamalik@acm.org"
   facebook: shauryamalik97
   github: shauryamalik
-  twitter: ActuallyShaurya
+#  twitter: ActuallyShaurya
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: shaurya-malik
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78

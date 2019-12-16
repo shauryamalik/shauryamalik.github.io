@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+Find out more about me on my [LinkedIn page](https://www.linkedin.com/in/shaurya-malik/).
 
 ### my history
 
